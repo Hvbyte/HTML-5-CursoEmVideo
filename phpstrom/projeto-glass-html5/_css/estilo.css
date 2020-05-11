@@ -3,7 +3,24 @@
 
 body {
     color: rgba(0,0,0,1);
-    background-color: white;
+    background-color: #dddddd;
+}
+div#interface{
+    width: 900px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    padding: 10px;
+}
+
+header#cabecalho img#icone{
+    position: absolute;
+    left: 750px;
+    top: 45px;
+}
+header#cabecalho{
+
+    
 }
 p{
 
